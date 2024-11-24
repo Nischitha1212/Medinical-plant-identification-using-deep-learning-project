@@ -1,0 +1,2 @@
+# Medinical-plant-identification-using-deep-learning-project
+The Medicinal Plant Identification using Deep Learning project uses deep learning techniques, especially Convolutional Neural Networks (CNNs), to classify medicinal plants from images. It helps identify plants for medicinal purposes, conservation, and research, offering accurate identification through model training and image processing.
